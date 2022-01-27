@@ -1,4 +1,4 @@
-a=4
-b=5
+a = int(input( "Enter 1st Numbers "))
+b = int(input( "Enter 2nd Numbers "))
 c=a+b
-print(c)
+print("The Sum of" ,a,"," ,b ,"is",c)
